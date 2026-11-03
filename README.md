@@ -1,2 +1,3 @@
 This reads cat data from any radio via hamlib server
-This app also stream tcp cat info to another app or anothe pc outside the network
+This app also streams tcp cat info to another app or another pc outside the network
+To be used with logging programs installed remotely, I use OPSLOG.
